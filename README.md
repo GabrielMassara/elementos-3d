@@ -11,6 +11,8 @@ Este repositório contém uma coleção de experimentos e projetos focados em el
 ### Macbook Interactive
 Uma representação 3D interativa de um MacBook usando Spline Viewer.
 
+![Macbook Interactive](files/printmac.png)
+
 **Características:**
 - Modelo 3D interativo de MacBook
 - Interface responsiva e moderna
